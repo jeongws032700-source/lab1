@@ -29,7 +29,9 @@ content/
 ## 실행 방법
 
 ```bash
-apt update -y
+cd content
+npm install
+npm start
 ```
 
 기본 실행 포트는 `3000`입니다.
