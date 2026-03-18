@@ -1,4 +1,4 @@
-# lab1
+# Maria database 설치 및 SQL 연습
 
 `실습 (1)` 폴더의 3번 과제를 정리한 저장소입니다.
 
@@ -29,9 +29,7 @@ content/
 ## 실행 방법
 
 ```bash
-cd content
-npm install
-npm start
+apt update -y
 ```
 
 기본 실행 포트는 `3000`입니다.
