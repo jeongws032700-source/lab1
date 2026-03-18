@@ -1,0 +1,14 @@
+{
+  "name": "material-management-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Simple Express app for material management",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "4.22.1",
+    "mysql2": "3.20.0"
+  }
+}
